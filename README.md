@@ -28,6 +28,12 @@ O aplicativo foi desenvolvido para explorar e analisar conjuntos de dados sobre 
 - **Pandas**: Manipulação e análise de dados
 - **Plotly Express**: Criação de gráficos interativos
 
+## Acesso Online
+
+🌐 **Aplicativo em Produção**: https://sprint5-3t9r.onrender.com
+
+Acesse a aplicação hospedada no Render para explorar os dados dos veículos diretamente no navegador!
+
 ## Como Usar
 
 1. Certifique-se de ter as dependências instaladas (veja `requirement.txt`)
