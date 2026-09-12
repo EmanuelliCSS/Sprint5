@@ -6,9 +6,6 @@ import streamlit as st
 st.title("Análise Exploratória de Dados de Veículos")
 
 # 2. Upload ou carregar dados reais do CSV
-st.subheader("Carregamento de Dados")
-
-# REMOVIDO o dado hardcoded. Agora o pandas lê diretamente o seu arquivo vehicles.csv
 uploaded_file = "vehicles.csv" 
 df = pd.read_csv(uploaded_file)
 
