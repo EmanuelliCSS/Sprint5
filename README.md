@@ -31,7 +31,7 @@ O aplicativo foi desenvolvido para explorar e analisar conjuntos de dados sobre 
 ## Como Usar
 
 1. Certifique-se de ter as dependências instaladas (veja `requirement.txt`)
-2. Execute o aplicativo com: `streamlit run app.py`
+2. Execute o aplicativo com: `python -m streamlit run app.py`
 3. O navegador abrirá automaticamente com a interface do aplicativo
 4. Explore os gráficos e interaja com os dados
 
